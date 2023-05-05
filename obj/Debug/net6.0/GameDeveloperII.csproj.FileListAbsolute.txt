@@ -1,0 +1,15 @@
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/bin/Debug/net6.0/GameDeveloperII
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/bin/Debug/net6.0/GameDeveloperII.deps.json
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/bin/Debug/net6.0/GameDeveloperII.runtimeconfig.json
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/bin/Debug/net6.0/GameDeveloperII.dll
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/bin/Debug/net6.0/GameDeveloperII.pdb
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.csproj.AssemblyReference.cache
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.AssemblyInfoInputs.cache
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.AssemblyInfo.cs
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.csproj.CoreCompileInputs.cache
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.dll
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/refint/GameDeveloperII.dll
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.pdb
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/GameDeveloperII.genruntimeconfig.cache
+/Users/hectorrosario/Library/Mobile Documents/com~apple~CloudDocs/CODING DOJO/Coding Dojo/C#/Core Assignments/GameDeveloperII/obj/Debug/net6.0/ref/GameDeveloperII.dll
